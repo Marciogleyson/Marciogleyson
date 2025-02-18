@@ -1,4 +1,4 @@
-# 👩‍⚖️: Marcio Ramos
+# 👨‍💼 Marcio Ramos
 
 **`Desenvolvedor FullStack`**
 
