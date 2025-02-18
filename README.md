@@ -1,4 +1,4 @@
-# :woman: Marcio Ramos
+# :man: Marcio Ramos
 
 **`Desenvolvedor FullStack`**
 
