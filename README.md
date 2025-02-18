@@ -1,4 +1,4 @@
-# 👩 Marcio Ramos
+# :alien: Marcio Ramos
 
 **`Desenvolvedor FullStack`**
 
