@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Marcio Ramos
+# 👩 Marcio Ramos
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcio Gleyson de Souza Ramos, tenho 44 anos e sou natural de Belém do Pará. Sou formado em Redes de Computadores na Estacio de Sá. Sou apaixonado. Cursos: HTML Avançado Proway, CSS Avançado ProWay, JavaScript Básico ProWay, Metodologia Ágil.
+Me chamo Marcio Gleyson de Souza Ramos, tenho 44 anos. Natural de Belém do Pará. Sou formado em Redes de Computadores na Estacio de Sá. Sou apaixonado por tecnologia. Instituição Proway Curso: HTML Avançado, Instituição Proway Curso: CSS Avançado, Instituição Proway Curso: JavaScript Básico, Instituição Proway Curso: Metodologia Ágil.
 
 <p align="left">
     <a href="https://www.youtube.com/@marciogleyson6736?sub_confirmation=1">
