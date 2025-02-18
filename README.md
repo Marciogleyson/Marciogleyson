@@ -1,4 +1,4 @@
-# 👨‍💼 Marcio Ramos
+# :woman: Marcio Ramos
 
 **`Desenvolvedor FullStack`**
 
